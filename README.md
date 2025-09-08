@@ -3,7 +3,7 @@
 Developed by Kriti Shukla, kritis@unc.edu
 
 # What this does:
-Using this workflow, you can obtain whole proteome structural information from Alphafold, create dense variant clusters, identify which clusters are associated with a given pathway, and run statistical analysis on these clusters to identify likelihood of association.
+Using this workflow, you can obtain whole proteome structural information from Alphafold, create dense variant clusters, identify which clusters are associated with a given pathway, and run statistical analysis on these clusters to identify the likelihood of association.
 
 # Instructions to run:
 Data : All input data is publicly available on DepMap, TCGA, Alphafold, and MSigDB.
@@ -23,3 +23,4 @@ Example datasets and tutorials are available in the `examples/` directory.
 
 - `examples/tutorial_quickstart.ipynb`: Quick installation and usage.
 - `examples/tutorial_full_pipeline.ipynb`: Full pipeline demo using toy data.
+
